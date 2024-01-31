@@ -18,6 +18,7 @@ To view `.xopp` files please install [Xournal++](https://xournalpp.github.io/ins
 1) [Why PyTorch ?](https://www.youtube.com/watch?v=RlHmSsh-Hqg)
 2) [Introduction to Pytorch](https://www.youtube.com/watch?v=J73xjEmLmdY)
    ([Lab : PyTorch notebook](3.PyTorch/Pytorch_Introduction.ipynb))
+3) [Introduction to Pytorch 2](https://www.youtube.com/watch?v=wnKZZgFQY-E)
 4) [PyTorch Assignment](3.PyTorch/PyTorch-Assignment.ipynb)
 
 ### 4. Neural Network
