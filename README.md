@@ -29,12 +29,28 @@ To view `.xopp` files please install [Xournal++](https://xournalpp.github.io/ins
 5) [Types of Activation Functions](https://www.youtube.com/watch?v=oYhWDI6j2nM)
 6) [How does the network learn?](https://www.youtube.com/watch?v=vMB9jlX6Oko)
 7) [Demystifying Neural Networks](https://www.youtube.com/watch?v=4-rbaQBs1xE)
+8) [How to solve ML poblems using simple Linear NN model](https://www.youtube.com/watch?v=imDMgkj9hc0)
 
-### 5. Optimizer
-1) [Machine Learning Pipeline](https://www.youtube.com/watch?v=1qdYUex27M0)
-2) [Solving ML Problems](https://www.youtube.com/watch?v=imDMgkj9hc0)
-3) [Gradient Descent](https://www.youtube.com/watch?v=IGlYJAJKgUY) ([Lab : Gradient Descent notebook](5.Optimizer/Gradient-Descent.ipynb))
-4) [Gradient Descent Assignment](5.Optimizer/Gradient-Descent-Assignment.ipynb)
+### 5. Machine Learning 
+1) [Machine Learning Pipeline part 1](https://www.youtube.com/watch?v=1qdYUex27M0)
+2) [Machine Learning Pipeline part 2](https://www.youtube.com/watch?v=7d44zrEbvZM)
+3) Data Preparation
+   - [Data Understanding](https://www.youtube.com/watch?v=4NjCUwsqiiU)
+   - [Data Preparation](https://www.youtube.com/watch?v=79DE3bzIz7M)
+4) [Training Pipeline](https://www.youtube.com/watch?v=a_a2lP0nckw)
+5) [Train the Model](https://www.youtube.com/watch?v=oHRufXuu1E0)
+6) [Improve the Model](https://www.youtube.com/watch?v=G3z-P2Uw3jQ)
+7) [Bias Variance Tradeoff](https://www.youtube.com/watch?v=RSdnwSRzWjM)
+8) [How to prevent Overfitting](https://www.youtube.com/watch?v=01mIB_j3GeU)
+
+### 6. Optimizers
+1) [Gradient Descent](https://www.youtube.com/watch?v=IGlYJAJKgUY) ([Lab 1 : Gradient Descent notebook](5.Machine_Learning/1.Gradient-Descent.ipynb))
+2) [Gradient Descent Assignment](5.Machine_Learning/2.Gradient-Descent-Assignment.ipynb)
+3) [Optimization_Algorithms](https://www.youtube.com/watch?v=6OK4g8f9k9U&t=1035s)([Lab 2: Optimization_Algorithms](5.Machine_Learning/3.Optimization_Algorithms.ipynb))
+4) [Learning Rate Decay Methods](https://www.youtube.com/watch?v=JNfT98yikRU)([Lab 3: LR_Scheduler](5.Machine_Learning/4.LR_Scheduler.ipynb))
+
+<!-- ### 7. Dataset
+1) Data Loader
 
 ### 6. Binary Classification using Perceptron
 1) [Binary Classification using Perceptron](https://www.youtube.com/watch?v=NGDcW4tsXX8) ([Lab : Binary Classification using a Perceptron notebook](6.Binary_Classification_using_Perceptron/Binary_Classifier_form_Scratch.ipynb))
@@ -46,4 +62,4 @@ To view `.xopp` files please install [Xournal++](https://xournalpp.github.io/ins
 - [MLP using Sequential API](7.Pytorch_NN_Module/MLP_using_Sequential_API.ipynb)
 
 ### 8.  Image Classification using a Multi Layer Perceptron 
-1) [MLP Classifier for handwritten digits](https://www.youtube.com/watch?v=dvpAfbG4EfU)([Lab:MLP Classifier for Handwritten Digits(MNIST)](8.Image_Clasification_using_Multi_Layer_Perceptron/Image_Classification_using_MLP_on_MNIST_data.ipynb))
+1) [MLP Classifier for handwritten digits](https://www.youtube.com/watch?v=dvpAfbG4EfU)([Lab:MLP Classifier for Handwritten Digits(MNIST)](8.Image_Clasification_using_Multi_Layer_Perceptron/Image_Classification_using_MLP_on_MNIST_data.ipynb)) -->
