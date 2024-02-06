@@ -28,15 +28,15 @@ To view `.xopp` files please install [Xournal++](https://xournalpp.github.io/ins
 4) [Loss Functions for Classification](https://www.youtube.com/watch?v=DUU2EJ9n5zI)
 5) [Types of Activation Functions](https://www.youtube.com/watch?v=oYhWDI6j2nM)
 6) [How does the network learn?](https://www.youtube.com/watch?v=vMB9jlX6Oko)
-7) [Demystifying Neural Networks](https://www.youtube.com/watch?v=4-rbaQBs1xE) [[Note 1](Notes/2.2Neural%20Network.xopp)]
+7) [Demystifying Neural Networks](https://www.youtube.com/watch?v=4-rbaQBs1xE) [[Note 1](Notes/2.2.Neural%20Network.xopp)]
    - [Lab 4.7.1 : MLP with Single Hidden Layer using PyTorch](4.Neural_Networks/4.7_1.MLP_using_Functional_API.ipynb)
    - [Lab 4.7.2 : PyTorch: Custom nn Modules](4.Neural_Networks/4.7_2.MLP_using_Sequential_API.ipynb)
 8) [How to solve ML poblems using simple Linear NN model](https://www.youtube.com/watch?v=imDMgkj9hc0) [[Note 2](Notes/2.3.NN%20and%20solving%20a%20problem.xopp)]
    - [Lab 4.8.1 : Design a simple neural network](4.Neural_Networks/4.8.SimpleNN/4.8_1.SimpleNN.ipynb)
    - [Lab 4.8.2 : Advantage of minibatch](4.Neural_Networks/4.8.SimpleNN/4.8_2.minibatch.ipynb)
-   - [Lab 4.8.3a : Simple neural network model to predict quadratic function ](4.Neural_Networks/4.8.SimpleNN/4.8_3a.quad_sample.ipynb)
-   - [Lab 4.8.3b : Simple neural network model to predict quadratic function ](4.Neural_Networks/4.8.SimpleNN/4.8_3b.nonlinear_regression_quadretic.ipynb)
-   - [Assignment: quadratic function prediction](4.Neural_Networks/4.8_3.quad_assignment/4.8_3.quad.ipynb)
+   - [Lab 4.8.3a : Simple neural network model to predict quadratic function part a](4.Neural_Networks/4.8.SimpleNN/4.8_3a.quad_sample.ipynb)
+   - [Lab 4.8.3b : Simple neural network model to predict quadratic function part b](4.Neural_Networks/4.8.SimpleNN/4.8_3b.nonlinear_regression_quadretic.ipynb)
+   - [Assignment: quadratic function prediction](4.Neural_Networks/4.8_4.quad_assignment/4.8_4.quad.ipynb)
    - [Lab 4.8.5 : Image Classification using Multi Layer Perceptron](4.Neural_Networks/4.8_5.Image_Classification_using_MLP_on_MNIST_data.ipynb)
 
 ### 5. Machine Learning 
