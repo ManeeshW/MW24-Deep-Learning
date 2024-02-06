@@ -37,7 +37,7 @@ To view `.xopp` files please install [Xournal++](https://xournalpp.github.io/ins
    - [Lab 4.8.3a : Simple neural network model to predict quadratic function ](4.Neural_Networks/4.8.SimpleNN/4.8_3a.quad_sample.ipynb)
    - [Lab 4.8.3b : Simple neural network model to predict quadratic function ](4.Neural_Networks/4.8.SimpleNN/4.8_3b.nonlinear_regression_quadretic.ipynb)
    - [Assignment: quadratic function prediction](4.Neural_Networks/4.8_3.quad_assignment/4.8_3.quad.ipynb)
-   - [Lab 4.8.5 : Image Classification using Multi Layer Perceptron](4.Neural_Networks/4.8_4.Image_Classification_using_MLP_on_MNIST_data.ipynb)
+   - [Lab 4.8.5 : Image Classification using Multi Layer Perceptron](4.Neural_Networks/4.8_5.Image_Classification_using_MLP_on_MNIST_data.ipynb)
 
 ### 5. Machine Learning 
 1) [Machine Learning Pipeline part 1](https://www.youtube.com/watch?v=1qdYUex27M0)
