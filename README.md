@@ -65,6 +65,16 @@ To view `.xopp` files please install [Xournal++](https://xournalpp.github.io/ins
 4) [Learning Rate Decay Methods](https://www.youtube.com/watch?v=JNfT98yikRU) ([Lab 3: LR_Scheduler](6.Optimizers/6.4_LR_Scheduler.ipynb))
 4) [Assignment](6.Optimizers/6.5_Assignment_Adam_Optimizer_Implementation.ipynb)
 
+### 7. [AI with PyTorch](https://youtube.com/playlist?list=PL_lsbAsL_o2CTlGHgMxNrKhzP97BaG9ZN&si=BV_0PNiYqfGcpjOP) ([AllLabs](7.AI%20with%20PyTorch/))
+1) [Introduction to PyTorch](https://www.youtube.com/watch?v=IC0_FRiX-sw&list=PL_lsbAsL_o2CTlGHgMxNrKhzP97BaG9ZN&index=1) ([Labs1_folder](7.AI%20with%20PyTorch/1.Introduction%20to%20PyTorch/))
+2) [Introduction to PyTorch Tensors](https://www.youtube.com/watch?v=r7QDUPb2dCM&list=PL_lsbAsL_o2CTlGHgMxNrKhzP97BaG9ZN&index=2) ([Lab2](7.AI%20with%20PyTorch/2.Introduction%20to%20PyTorch%20Tensors/2.Tensors.ipynb))
+3) [The Fundamentals of Autograd](https://www.youtube.com/watch?v=M0fX15_-xrY&list=PL_lsbAsL_o2CTlGHgMxNrKhzP97BaG9ZN&index=3) ([Lab3](7.AI%20with%20PyTorch/3.The%20Fundamentals%20of%20Autograd/3.Pytorch_Autograd.ipynb))
+4) [Building Models with PyTorch](https://www.youtube.com/watch?v=OSqIP-mOWOI&list=PL_lsbAsL_o2CTlGHgMxNrKhzP97BaG9ZN&index=4) ([Lab4](7.AI%20with%20PyTorch/4.Building%20Models%20with%20PyTorch/4.Building+Models+in+PyTorch.ipynb))
+5) [PyTorch TensorBoard Support](https://www.youtube.com/watch?v=6CEld3hZgqc&list=PL_lsbAsL_o2CTlGHgMxNrKhzP97BaG9ZN&index=5) ([Lab5](7.AI%20with%20PyTorch/5.PyTorch%20TensorBoard%20Support/5.Tensorboard+Support+in+PyTorch.ipynb))
+6) [Training with PyTorch](https://www.youtube.com/watch?v=jF43_wj_DCQ&list=PL_lsbAsL_o2CTlGHgMxNrKhzP97BaG9ZN&index=6) ([Lab6](7.AI%20with%20PyTorch/6.Training%20with%20PyTorch/6.Model+Training+with+PyTorch.ipynb))
+7) [Model Understanding with Captum](https://www.youtube.com/watch?v=Am2EF9CLu-g&list=PL_lsbAsL_o2CTlGHgMxNrKhzP97BaG9ZN&index=7) ([Lab7](7.AI%20with%20PyTorch/7.Model%20Understanding%20with%20Captum/Getting-Started-with-Captum.ipynb))
+8) [Production Inference Deployment with PyTorch](https://www.youtube.com/watch?v=Dk88zv1KYMI&list=PL_lsbAsL_o2CTlGHgMxNrKhzP97BaG9ZN&index=8)
+
 <!-- ### 7. Dataset
 1) Data Loader
 
