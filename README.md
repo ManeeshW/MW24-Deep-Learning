@@ -75,6 +75,43 @@ To view `.xopp` files please install [Xournal++](https://xournalpp.github.io/ins
 7) [Model Understanding with Captum](https://www.youtube.com/watch?v=Am2EF9CLu-g&list=PL_lsbAsL_o2CTlGHgMxNrKhzP97BaG9ZN&index=7) ([Lab7](7.AI%20with%20PyTorch/7.Model%20Understanding%20with%20Captum/Getting-Started-with-Captum.ipynb))
 8) [Production Inference Deployment with PyTorch](https://www.youtube.com/watch?v=Dk88zv1KYMI&list=PL_lsbAsL_o2CTlGHgMxNrKhzP97BaG9ZN&index=8)
 
+### 8. Convolution Neural Network
+1) Understanding Image Convolution Operations
+   1) [Image Enhancement and Filtering](https://www.youtube.com/watch?v=DBFJoJSPTEc)
+   - 1.1 Color Spaces
+      - [Introduction to Color Spaces](https://www.youtube.com/watch?v=Yh5f8swUz3Q)
+      - [Color spaces notebooks overview](https://www.youtube.com/watch?v=X2aSbMoAp9Y)
+      - [Application 1 - Finding dominant color in an image | Histogram](https://www.youtube.com/watch?v=Z0KNBIWpSTY)
+      - [Application 2 - Desaturation Filter](https://www.youtube.com/watch?v=_z_ztXcWfQ0)
+   - 1.2 Color Transformations   
+      - [Color Transformation Introduction](https://www.youtube.com/watch?v=2awcO0NGYG8)
+      - [Histogram Equalization](https://www.youtube.com/watch?v=r9IiFHFYe2o)
+      - [Advanced Histogram Equalization ( CLAHE )](https://www.youtube.com/watch?v=x2fytHqugTI)
+      - [Color Adjustment using Curves](https://www.youtube.com/watch?v=skeBgdlI4WM)
+      - [Color Spaces Assignment](8.Convolution_NN/8.1_Image%20Enhancement%20and%20Filtering/Assignment/cvtColor-Assignment.ipynb)
+   - 1.3 Image Filtering
+      - [image Filtering](https://www.youtube.com/watch?v=DBFJoJSPTEc)
+      - [Convolution](https://www.youtube.com/watch?v=oNW4OrXN4Fk)
+      - [Convolution in OpenCV](https://www.youtube.com/watch?v=UDXc2cx2RbA)
+      - [Labs](8.Convolution_NN/8.1_Image%20Enhancement%20and%20Filtering/)
+   - 1.4 Image Smoothing
+      - [Box Blur](https://www.youtube.com/watch?v=0PKzvvj32uU)
+      - [Gaussian Blur](https://www.youtube.com/watch?v=ZGmO476kW68)
+      - [Median Blur](https://www.youtube.com/watch?v=cjAWbQxiPt4)
+      - [Median Blur in OpenCV](https://www.youtube.com/watch?v=SLmTKBQpa1s)
+      - [Bilateral Filtering](https://www.youtube.com/watch?v=KXid7g4Vuuo)
+      - [Bilateral Blur in OpenCV](https://www.youtube.com/watch?v=Qrh8BkykYNc)
+   - 1.5 Image Gradients
+      - [Image Gradients](https://www.youtube.com/watch?v=2gsX48sERrI)
+      - [First Order Derivative Filters](https://www.youtube.com/watch?v=TZUn4yPYhgQ)
+      - [Why smooth before taking gradients?](https://www.youtube.com/watch?v=cmzjyXPWdWs)
+      - [Second Order Derivative Filters](https://www.youtube.com/watch?v=mI-RLCnqI3c)
+      - [Application - Sharpening Filter](8.Convolution_NN/8.1_Image%20Enhancement%20and%20Filtering/Notebooks/16_image-gradients-application.ipynb)
+      - [Canny Edge Detection](https://www.youtube.com/watch?v=m9GQBxAbZpk)
+      - [Canny Edge Detection in OpenCV](https://www.youtube.com/watch?v=bykFoTtGmxw)
+      - [Autofocus Assignment](https://www.youtube.com/watch?v=FfhOUh4hX70) [[Assignment]](8.Convolution_NN/8.1_Image%20Enhancement%20and%20Filtering/Assignment/Autofocus-assignment.ipynb)
+
+   
 <!-- ### 7. Dataset
 1) Data Loader
 
