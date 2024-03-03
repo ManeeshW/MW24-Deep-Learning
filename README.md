@@ -110,6 +110,12 @@ To view `.xopp` files please install [Xournal++](https://xournalpp.github.io/ins
       - [Canny Edge Detection](https://www.youtube.com/watch?v=m9GQBxAbZpk)
       - [Canny Edge Detection in OpenCV](https://www.youtube.com/watch?v=bykFoTtGmxw)
       - [Autofocus Assignment](https://www.youtube.com/watch?v=FfhOUh4hX70) [[Assignment]](8.Convolution_NN/8.1_Image%20Enhancement%20and%20Filtering/Assignment/Autofocus-assignment.ipynb)
+2) Convolution Neural Network (CNN)
+   - 2.1 [The Convolution Operation](https://www.youtube.com/watch?v=KAaG94ElfcI)
+   - 2.2 [CNN Building Blocks](https://www.youtube.com/watch?v=SOx1v4xul8I)
+   - 2.3 [Layers in CNN](https://www.youtube.com/watch?v=VgohFKPGMMA)
+
+
 
    
 <!-- ### 7. Dataset
