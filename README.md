@@ -20,6 +20,7 @@ To view `.xopp` files please install [Xournal++](https://xournalpp.github.io/ins
    ([Lab : PyTorch notebook](3.PyTorch/Pytorch_Introduction.ipynb))
 3) [Introduction to Pytorch 2](https://www.youtube.com/watch?v=wnKZZgFQY-E)
 4) [PyTorch Assignment](3.PyTorch/PyTorch-Assignment.ipynb)
+5) [<span style=“color:pink;”>Introduction to TorchVision</span>](3.PyTorch/torchvision.ipynb)
 
 ### 4. Neural Networks (NN) / Multi Layer Perceptrons (MLPs)
 1) [Feature Vectors and Normalization](https://www.youtube.com/watch?v=-C4rYxrXySg)  [[Note](Notes/2.1.Feature_Vectors_and_Normalization.xopp)]
@@ -114,9 +115,14 @@ To view `.xopp` files please install [Xournal++](https://xournalpp.github.io/ins
    - 2.1 [The Convolution Operation](https://www.youtube.com/watch?v=KAaG94ElfcI)
    - 2.2 [CNN Building Blocks](https://www.youtube.com/watch?v=SOx1v4xul8I)
    - 2.3 [Layers in CNN](https://www.youtube.com/watch?v=VgohFKPGMMA)
+   - 2.4 [Lab : Implementing LeNet](8.Convolution_NN/8.2_CNN/8.2.4_Implementing_LeNet/8.4.1_Implementing_LeNet.ipynb)
+   - 2.5 [Performance Metrics for Classification](https://www.youtube.com/watch?v=xR5rtP9lpG8) | [Lab](8.Convolution_NN/8.2_CNN/8.2.5_Performance_Metrics_for_Classification/Classification_Evaluation_Metrics.ipynb)
+   - 2.6 [Transpose Convolution](https://www.youtube.com/watch?v=-p1cHDjMDOA&t=265s)
 
-
-
+3) CNN Architectures
+   - 2.1 [CNN Architectures](https://www.youtube.com/watch?v=NnB9Zm5bnok) | 
+   - 2.2 [Lab : Pretrained Classification Models in Torchvision](8.Convolution_NN/8.3_CNN_Architectures/8.2.5_Performance_Metrics_for_Classification/Pretrained_Classification_Models_in_Torchvision.ipynb)
+   - 2.3 [Papers](Papers.md)
    
 <!-- ### 7. Dataset
 1) Data Loader
